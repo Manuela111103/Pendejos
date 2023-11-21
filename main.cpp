@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 
-class Triangulos{
+class Tria
  
 private:
 
