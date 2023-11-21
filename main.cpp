@@ -5,7 +5,7 @@ class Triangulos{
  
 private:
 
-float Lado1;
+float Lado11;
 float Lado2;
 float Lado3;
 float Angulo1;
